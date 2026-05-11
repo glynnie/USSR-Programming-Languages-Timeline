@@ -1,7 +1,4 @@
-# USSR Programming Languages Timeline
-
-This README recreates the final two-page portrait handout as closely as practical in GitHub Markdown. PDF-only layout features such as exact card positioning, embedded page numbers, and clickable PDF annotations are approximated here with tables, headings, bullet points, and standard Markdown links.
-
+# USSR Programming Languages 
 ---
 
 ## 1955 — Address Programming Language
@@ -70,16 +67,3 @@ This README recreates the final two-page portrait handout as closely as practica
 10. [Parondzhanov author page](https://habr.com/ru/users/parondzhanov/)
 
 ---
-
-## Repository notes
-
-For a GitHub README, this ZIP is already structured for GitHub. Upload the contents of the ZIP as a repository root, with the README in the top level and the images inside `images/`. Included assets:
-
-- `yushchenko.jpg`
-- `besm6_v2.jpg`
-- `panel_2.png`
-- `panel_3.png`
-- `img_4.jpg`
-- `img_5.jpg`
-- `img_6.jpg`
-- `img_7.jpg`
